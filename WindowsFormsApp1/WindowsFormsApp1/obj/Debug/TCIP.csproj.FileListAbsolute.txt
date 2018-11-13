@@ -1,0 +1,12 @@
+C:\Users\nikol\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nikol\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nikol\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nikol\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SimpleTCP.dll
+C:\Users\nikol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TCIP.csprojAssemblyReference.cache
+C:\Users\nikol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nikol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nikol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TCIP.csproj.GenerateResource.cache
+C:\Users\nikol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TCIP.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TCIP.csproj.CopyComplete
+C:\Users\nikol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nikol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

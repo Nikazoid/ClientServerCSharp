@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28124.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCIP", "WindowsFormsApp1\TCIP.csproj", "{DDA3F663-F76B-45D1-AFCA-D0F8217AE07D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{122B861E-5B82-4A88-B06C-DB9CE59B2466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA3F663-F76B-45D1-AFCA-D0F8217AE07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA3F663-F76B-45D1-AFCA-D0F8217AE07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA3F663-F76B-45D1-AFCA-D0F8217AE07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA3F663-F76B-45D1-AFCA-D0F8217AE07D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{122B861E-5B82-4A88-B06C-DB9CE59B2466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122B861E-5B82-4A88-B06C-DB9CE59B2466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122B861E-5B82-4A88-B06C-DB9CE59B2466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122B861E-5B82-4A88-B06C-DB9CE59B2466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
